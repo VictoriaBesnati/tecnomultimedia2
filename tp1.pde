@@ -3,7 +3,7 @@
  ------- TP1 Etapa 2: Prototipo -------
  Comision: Lisandro | Prof.Lisandro Peralta
  Alumnas: D´angelo Victoria (88529/7) y Besnati Victoria(88151/1)
- Video:
+ Video: https://youtu.be/RHjw6LA3Ous
 */
 
 momento m;
